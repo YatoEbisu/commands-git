@@ -14,7 +14,7 @@
 
 `git add .` *adicionar todos arquivos*
 
-`git commit -m "Criando arquivo index.html com lista de cursos"`
+`git commit -m "Mensagem"`
 
 `git log` *historico de alteracoes*
 
